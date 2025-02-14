@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JKR-1
 - 👀 I’m interested in C++ And Py
 - 🌱 I’m currently learning Computer Sience
-- 📫 How to reach me (Cant Tell)
 - 😄 Pronouns: He // Him
 - ⚡ Fun fact: I Play Fortnite
 
